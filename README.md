@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chathura Buddhika</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka.</h3>
+<h3 align="center">A passionate full stack developer highly focused on React Native and Next JS</h3>
 
 - 🌱 I’m currently learning **flutter**
 
