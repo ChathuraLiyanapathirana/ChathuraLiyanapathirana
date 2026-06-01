@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, react native, flutter**
 
-- 📫 How to reach me [**cbuddhika3@gmail.com](mailto:**cbuddhika3@gmail.com), appcitor@gmail.com**
+- 📫 How to reach me [**cbuddhika3@gmail.com](mailto:**cbuddhika3@gmail.com)**
 
 - ⚡ Fun fact **As a software engineer doing photography.**
 
